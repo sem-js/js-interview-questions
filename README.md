@@ -1,3 +1,5 @@
+JS Interview Questions (Notes)
+
 Notes:
 - lets start with 10 questions
 - should the questions be focused on exercises or focused on explaining concepts?
