@@ -1,6 +1,6 @@
 JS Interview Questions (Notes)
 
-***********
+____________________
 [4/24/2016]
 
 Next steps:
@@ -20,7 +20,7 @@ Questions:
 - Explain the concept of Closures in javascript.  Give an example.
 - 
 
-***********
+____________________
 [3/28/2016]
 
 Notes:
