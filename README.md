@@ -18,7 +18,6 @@ These are the people (that I remember) that have shown interest in helping with 
 Questions:
 - Tell me about what the THIS keyword means, and how it is used in javascript.  Give an example.
 - Explain the concept of Closures in javascript.  Give an example.
-- 
 
 ____________________
 [3/28/2016]
