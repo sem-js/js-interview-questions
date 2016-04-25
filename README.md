@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/sem-js/js-interview-questions](https://badges.gitter.im/sem-js/js-interview-questions.svg)](https://gitter.im/sem-js/js-interview-questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 JS Interview Questions (Notes)
 
 ____________________
@@ -52,4 +54,3 @@ Other links:
 - https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers
 
 
-[![Join the chat at https://gitter.im/sem-js/js-interview-questions](https://badges.gitter.im/sem-js/js-interview-questions.svg)](https://gitter.im/sem-js/js-interview-questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
