@@ -1,5 +1,26 @@
 JS Interview Questions (Notes)
 
+***********
+[4/24/2016]
+Next steps:
+- For the next study group (4/25), let’s focus on getting our list of 10 questions together.
+- I would also like to know who wants to contribute (see below for the short list.)
+- After that, we can start answering the questions, maybe we can each do the research on one question, and come back with an answer.  Then the whole group can review the answer, and add suggestions as needed.
+
+These are the people (that I remember) that have shown interest in helping with this project:
+- Matt Morgan
+- Mike Matola
+- Eric Iverson
+- Joshua Colvin
+- others?
+
+Questions:
+- Tell me about what the THIS keyword means, and how it is used in javascript.  Give an example.
+- Explain the concept of Closures in javascript.  Give an example.
+- 
+
+***********
+[3/28/2016]
 Notes:
 - lets start with 10 questions
 - should the questions be focused on exercises or focused on explaining concepts?
