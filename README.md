@@ -31,8 +31,8 @@ Notes:
 
 ____________________
 Domain Names:
-interviews.semjs.org
-interviewjs.com
+- interviews.semjs.org
+- interviewjs.com
 
 Current Possible Question Topics:
 - this keyword
