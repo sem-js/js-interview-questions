@@ -48,6 +48,7 @@ Resources:
 - http://www.thatjsdude.com/interview/js2.html
 - https://github.com/loverajoel/jstips
 - https://github.com/loverajoel/jstips/blob/gh-pages/_posts/en/2016-01-24-use_%3D%3D%3D_instead_of_%3D%3D.md
+- https://github.com/donnemartin/interactive-coding-challenges
 
 Other links:
 - https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question
